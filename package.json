@@ -1,0 +1,28 @@
+{
+  "name": "buccina",
+  "description": "A node.js module for parsing ASN1 files",
+  "tags": [
+    "ASN1",
+    "Parser"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Anton Whalley",
+    "email": "anton.whalley@vodafone.ie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/No9/buccina.git"
+  },
+  "bugs": {
+    "url": "https://github.com/No9/buccina/issues"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies" : {
+    },
+     "scripts" : {
+        "test" : "node tests/test.js"
+  }
+}
